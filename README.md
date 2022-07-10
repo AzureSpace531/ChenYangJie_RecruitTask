@@ -1,8 +1,8 @@
 # ChenYangJie_RecruitTask
 Test
 
-| First Header  | Second Header | First Header  | Second Header |
+| 日期 | 学习过程 | 遇到问题  | 解决过程 |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
+| 7.9  | ros2的安装  | 无止境的GPG ERROR  | 在按照另一个不推荐的方法安装之后，发现在中间还有一个地方换源，不过后面在这里没有接着安装下去，回去官方教程跟着安装就好了(感觉可以参考BV1HS4y1T7wu 这个时跟着官方教程安装的)  |
 
 
