@@ -1,0 +1,3 @@
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/build/CMakeFiles/rebuild_cache.dir
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/build/CMakeFiles/edit_cache.dir
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/build/CMakeFiles/main.dir

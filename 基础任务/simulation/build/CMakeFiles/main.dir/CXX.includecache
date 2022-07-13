@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/include/Robot.h
+string
+-
+iostream
+-
+
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/src/Robot.cpp
+../include/Robot.h
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/include/Robot.h
+random
+-
+
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/src/main.cpp
+iostream
+-
+vector
+-
+../include/Robot.h
+/home/hhd25z/文档/ChenYangJie_RecruitTask/基础任务/simulation/include/Robot.h
+
